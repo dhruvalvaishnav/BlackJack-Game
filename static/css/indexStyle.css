@@ -1,0 +1,22 @@
+body {
+  background: url("../images/game-start-bg-1.jpg") no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+.container {
+  margin-top: 250px;
+  justify-content: center;
+}
+.container a {
+  color: #e0eff2;
+  text-decoration: none;
+}
+.container h2 {
+  font-family: "Frijole", cursive;
+  font-size: 50px;
+}
+.relief {
+  color: #e0eff2;
+  font: italic bold 150px Sans-Serif;
+  text-shadow: -4px 3px 0 #3a50d9, -14px 7px 0 #0a0e27;
+}
