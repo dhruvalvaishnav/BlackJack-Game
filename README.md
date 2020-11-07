@@ -1,5 +1,11 @@
 # BLACKJACK GAME
 
+# Why Play BLACKJACK
+*The above question is an important one because you have many choices of table games to play in land-based and online casinos. So why play blackjack? Because, in a nutshell, blackjack is:*
+
+*Different mathematically than other casino games.*
+*A much better game for players, because of the favorable math.*
+
 # THE BASIC RULES WHEN PLAYING BLACKJACK:
 
 1. The goal of blackjack is to beat the dealer's hand without going over 21.
